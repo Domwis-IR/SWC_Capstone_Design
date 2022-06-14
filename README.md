@@ -14,5 +14,6 @@ Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
     1) 데이터 이해: Diffusion MRI  
         Youtube: https://www.youtube.com/playlist?list=PLRZ9VSqV-6soOC0rUEAOV-QiSa_Qxk8JM
     2) DSI Studio를 이용한 data export
+        auto_dti_fa.py를 통해서 dMRI에서 FA map export
     3) Data Slicing
     4) 모델 구현
