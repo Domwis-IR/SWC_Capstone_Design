@@ -19,6 +19,12 @@ Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
         auto_dti_fa.py를 통해서 dMRI에서 FA map export
     3) Data Slicing
     4) 모델 구현
+
 - 2022.05
     1) 모델 Training
     2) 결과 시각화
+
+- 2022.06
+    1) 결과 제출
+
+
