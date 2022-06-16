@@ -5,6 +5,7 @@ Decentralized Brain Age Estimation using MRI Data
 Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
 - 갯수: 1065
 - Age : 22 ~ 35
+- Diffusion Matrix : FA
 
 ## Timeline
 - 2022.03
@@ -28,3 +29,4 @@ Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
     1) 결과 제출
 
 
+##
