@@ -27,6 +27,9 @@ Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
 
 - 2022.06
     - 결과 제출
+    
+- 2022.07
+    - Federated Learning Study : Using FedML
 
 
 ## 1. 과제개요
@@ -50,7 +53,7 @@ Human Cunnectome Projects(HCP) Young Adults Diffusion MRI
 
 
 ### 3) Federated Learning 
-(추후 진행 계획 중)
+(계획 진행 중 - 7,8월)
 
 ## 3. 수행결과 
 
